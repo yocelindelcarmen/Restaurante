@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Regularizacion</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="enter">Enter</string>
+    <string name="enter2">Enter</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_inicio_de_secion">inicio_de_secion</string>
+    <string name="title_activity_cap1">cap1</string>
+    <string name="title_activity_tercer_activity">tercer_activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunda">segunda</string>
+</resources>
